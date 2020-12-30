@@ -73,7 +73,7 @@ export default {
       vm.prevRoute = from;
       vm.startTimer();
       setTimeout(function (){
-        this.$router.push(this.nextRoute);
+        this.$router.replace(this.nextRoute);
         this.clearTimer();
       }.bind(vm), vm.delay * 1000);
     })

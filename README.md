@@ -6,7 +6,7 @@
 
 ## Как запустить
 ```
-https://github.com/mrniktarasov/traffic_light
+git clone https://github.com/mrniktarasov/traffic_light
 npm install
 npm start
 ```

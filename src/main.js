@@ -3,6 +3,7 @@ import App from './App.vue'
 import VueRouter from 'vue-router'
 import TrafficLights from "./components/TrafficLights";
 
+
 Vue.use(VueRouter);
 Vue.config.productionTip = false;
 
