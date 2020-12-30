@@ -16,4 +16,4 @@ npm start
 ## Демонстрация
 ![Макет](https://github.com/mrniktarasov/traffic_light/blob/master/screens/Screenshot_1.png)
 ![Макет](https://github.com/mrniktarasov/traffic_light/blob/master/screens/Screenshot_2.png)
-![Макет](https://github.com/mrniktarasov/traffic_light/blob/master/screens/Screenshot_2.png)
+![Макет](https://github.com/mrniktarasov/traffic_light/blob/master/screens/Screenshot_3.png)
